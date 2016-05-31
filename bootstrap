@@ -2,6 +2,6 @@ public class CustomBootstrapper : DefaultNancyBootstrapper
 {
     protected override void ApplicationStartup(TinyIoCContainer container, IPipelines pipelines)
     {
-         // {write}happy-chickIOS}{my emulater.zip}my gme//
+         //
     }
 }
